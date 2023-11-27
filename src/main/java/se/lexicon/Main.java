@@ -77,7 +77,7 @@ public class Main {
 
         /*
         Syntax
-        for (type variable : arrayname) {
+        for (type variable : arrayName) {
             ...
         }
         https://www.w3schools.com/java/java_arrays_loop.asp
